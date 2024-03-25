@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Visual files by Theo
+*.vcxproj
+*.filters
+*.sln
